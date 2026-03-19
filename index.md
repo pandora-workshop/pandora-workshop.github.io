@@ -43,7 +43,9 @@ PANDORA is planned as a **1-day workshop** that combines technical results, cros
 - A panel on **Pluralism vs. Consensus**
 - A community deliverable: a **Pluralism-aware Reporting Checklist** and reusable template cards for datasets, preference data, and evaluation setups -->
 
-### Stay tuned for Call for paper!
+ Stay tuned for Call for paper!
+
+ You can follow us on BlueSky [@pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social).
 
 <!-- ## Contributions We Invite
 
@@ -59,10 +61,9 @@ The workshop proposal welcomes archival and non-archival submissions on pluralis
 
 We also explicitly encourage interdisciplinary work, language- and community-specific work, conceptual contributions, and a **Reflections & Provocations** track for short viewpoint pieces.
 
-<!-- ## Current Status
+ ## Current Status
 
 This website has been adapted from the workshop proposal and now reflects the proposed PANDORA scope. Final venue confirmation, dates, and submission deadlines are still to be announced.
 
-For questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk). -->
-
+For questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk).
  -->
