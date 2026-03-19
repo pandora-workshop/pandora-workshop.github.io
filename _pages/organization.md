@@ -87,7 +87,7 @@ order : 1
 - Mario Giulianelli, UCL, UK
 - Danish Pruthi, IISc, India
 - Monojit Choudhury, MBZUAI, UAE
-- Soujanya Poria, Singapore University of Technology and Design, Singapore
+- Soujanya Poria, Singapore University of Technology and Design, Singapore 
 - Animesh Mukherjee, IIT Kharagpur, India -->
 
 ## Contact
