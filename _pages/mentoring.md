@@ -7,21 +7,25 @@ order :
 # Mentoring
 
 ## Pre-submission Mentorship Program
-The SRW offers students the opportunity to get advance feedback before submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student's work, not to critique it. Participation is optional but encouraged.
-We especially encourage partipation from undergraduates, Masters students, and others who are new to research.
+The PANDORA proposal includes a **light-touch pre-submission mentorship process** to support authors ahead of submission.
 
-Note that pre-submission mentorship is not anonymous. However, you should still submit your paper in an anonymized format. We will check the formatting of each paper before we match mentors.
+The current plan is to offer feedback on:
 
-Participants will be matched with a mentor who will review and provide feedback to the student. This mentor will not be the same person who will review the final submission.
-The feedback will be in the format of guidance and suggestions to improve the overall writing and communication of the paper; students are not required to make the changes suggested by the pre-submission mentor.
+- abstracts
+- paper outlines
+- early-stage framing and positioning
 
-You CAN submit a paper at the SRW submission deadline even if you did not participate in the pre-submission mentoring. If you did submit a draft for pre-submission mentoring, you will need to make a new submission for the final version of the paper. 
+The goal is to help authors strengthen communication and workshop fit before formal review, especially for interdisciplinary or emerging work.
 
-**Students wishing to participate in the pre-submission mentorship must submit their paper draft in [this openreview website](https://openreview.net/group?id=aclweb.org/ACL/2026/SRW_Pre-submission_Mentorship) by February 4, 2026.**
+## Status
 
-## !! Warning for Mentorship Program
-* The SRW mentorship program aims to support **students**. It is not an appropriate venue for solicitation of any kind. Any further attempts to do so will result in a **permanent ban** from submission to the student research workshop.
+Mentorship is planned, but the final process, sign-up form, and deadline have not yet been announced on this website.
 
-* The corresponding author for the SRW mentorship program must be a **student**.
+## Additional Support
 
-<!-- Pre-submission mentorship is **complete**.  -->
+The proposal also notes that the organizers intend to seek sponsorship, conference support, or both for:
+
+- travel grants
+- registration waivers
+
+This support is intended particularly for students and participants facing financial barriers, subject to conference policy and available funding.

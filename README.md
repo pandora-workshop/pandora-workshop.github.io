@@ -1,6 +1,6 @@
-# ACL SRW 2026 Website
+# PANDORA Workshop Website
 
-Static site for the ACL SRW 2026 workshop, built with [Jekyll](https://jekyllrb.com/) and deployed via GitHub Pages.
+Static site for the PANDORA workshop proposal website, built with [Jekyll](https://jekyllrb.com/) and deployed via GitHub Pages.
 
 ## Project structure
 

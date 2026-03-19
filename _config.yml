@@ -24,16 +24,17 @@ collections:
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "ACL Student Research Workshop (SRW) 2026"
+title                    : "PANDORA Workshop"
+tagline                  : "Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
 title_separator          : "-"
-name                     : "ACL"
-description              : "In conjunction with ACL 2026 in San Diego, US" 
+name                     : "PANDORA"
+description              : "Pluralism-aware NLP and responsible alignment workshop proposal"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               :
   disqus:
-    shortname            : "acl2026srw"
+    shortname            :
 reCaptcha:
   siteKey                :
   secret                 :
@@ -65,8 +66,8 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: acl2026srwchairs@gmail.com
-  github: acl2026-srw
-  twitter: ACL_SRW_2026
-  bluesky: acl2026srw.bsky.social
+  email: shanshan.xu@di.ku.dk
+  github:
+  twitter:
+  bluesky:
   

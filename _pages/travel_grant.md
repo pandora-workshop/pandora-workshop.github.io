@@ -3,6 +3,7 @@ layout: page
 title: "Grants"
 permalink: /travel_grant
 order : 1
+published: false
 ---
 
 # SRW Grant Application Guideline

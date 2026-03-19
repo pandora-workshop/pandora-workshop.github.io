@@ -1,29 +1,84 @@
 ---
 layout: page_nodates
-title: "Organization"
+title: "Organizers"
 permalink: /organization
 order : 1
 ---
 
-# Organization
+# Organizers
 
-## Student Chairs
+## Workshop Organizers
 
-<div class="committee-grid">
-{% include committee-member.html name="Juan Diego Rodriguez" picture="/images/people/JuanDiego.jpg" site="" institution="University of Texas at Austin" email = "juand-r@utexas.edu" %}
-{% include committee-member.html name="Santosh T.Y.S.S" picture="/images/people/Santosh.jpg" site="" institution="Technical University of Munich & Amazon" email = "santoshtyss@gmail.com" %}
-{% include committee-member.html name="Ona de Gibert" picture="/images/people/Ona.jpg" site="" institution="University of Helsinki" email = "ona.degibert@helsinki.fi" %}
-</div>
+- **Shanshan Xu**  
+  University of Copenhagen, Denmark  
+  [shanshan.xu@di.ku.dk](mailto:shanshan.xu@di.ku.dk)
 
-## Faculty Advisors
+- **Santosh T.Y.S.S.**  
+  Amazon, USA  
+  [santoshtyss@gmail.com](mailto:santoshtyss@gmail.com)
 
-<div class="committee-grid">
-{% include committee-member.html name="Yves Scherrer" picture="/images/people/Yves_Scherrer.jpg" site="" institution="University of Oslo" email = "yves.scherrer@ifi.uio.no" %}
-{% include committee-member.html name="Elias Stengel-Eskin" picture="/images/people/Elias_Stengel-Eskin.jpg" site="" institution="University of Texas at Austin" email = "esteng@cs.unc.edu" %}
-{% include committee-member.html name="Snigdha Chaturvedi" picture="/images/people/Snigdha_Chaturvedi.jpg" site="" institution="University of North Carolina" email = "snigdha@cs.unc.edu" %}
-</div>
+- **Kemal Kurniawan**  
+  University of Melbourne, Australia  
+  [kurniawan.k@unimelb.edu.au](mailto:kurniawan.k@unimelb.edu.au)
 
+- **Siyao (Logan) Peng**  
+  LMU Munich, Germany  
+  [siyaopeng@cis.lmu.de](mailto:siyaopeng@cis.lmu.de)
+
+- **Sarenne Wallbridge**  
+  AI Security Institute, UK  
+  [sarenne.wallbridge@gmail.com](mailto:sarenne.wallbridge@gmail.com)
+
+- **Fajri Koto**  
+  MBZUAI, UAE  
+  [fajri.koto@mbzuai.ac.ae](mailto:fajri.koto@mbzuai.ac.ae)
+
+- **Nouha Dziri**  
+  Allen Institute for AI (AI2), USA  
+  [nouha.dziri@gmail.com](mailto:nouha.dziri@gmail.com)
+
+- **Barbara Plank**  
+  LMU Munich, Germany  
+  [b.plank@lmu.de](mailto:b.plank@lmu.de)
+
+## Invited Speakers and Panel
+
+- **Vered Shwartz** (confirmed)  
+  University of British Columbia; CIFAR AI Chair
+
+- **Laura Weidinger** (invited)  
+  DeepMind
+
+- **Seth Lazar** (invited)  
+  Australian National University
+
+## Program Committee
+
+- Taylor Sorensen, University of Washington, USA
+- Danae Sanchez, University of Copenhagen, Denmark
+- Leon Staufer, University of Cambridge, UK
+- Ruchira Dhar, University of Copenhagen, Denmark
+- Stephanie Brandl, University of Copenhagen, Denmark
+- Bolei Ma, LMU Munich, Germany
+- Beiduo Chen, LMU Munich, Germany
+- Yinuo Xu, University of Michigan, USA
+- Matthias Orlikowski, Bielefeld University, Germany
+- Ruyuan Wan, Pennsylvania State University, USA
+- Moksh Jain, Mila and Universite de Montreal, Canada
+- Elisa Bassignana, Bocconi University, Italy
+- Silvia Casola, LMU Munich, Germany
+- Xinpeng Wang, LMU Munich, Germany
+- Joris Baan, LMU Munich, Germany
+- Ding Wang, Google Research
+- Aida Davani, Google Research
+- Mark Diaz, Google Research
+- Dennis Ulmer, University of Amsterdam, Netherlands
+- Mario Giulianelli, UCL, UK
+- Danish Pruthi, IISc, India
+- Monojit Choudhury, MBZUAI, UAE
+- Soujanya Poria, Singapore University of Technology and Design, Singapore
+- Animesh Mukherjee, IIT Kharagpur, India
 
 ## Contact
 
-If you have any questions, please contact the organizers via email: [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com).
+For workshop questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk).
