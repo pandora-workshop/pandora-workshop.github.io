@@ -3,12 +3,23 @@
 
 @import 'jekyll-theme-cayman';
 
-
+:root {
+  --conference-primary: #007744;
+  --conference-primary-dark: #005c34;
+  --conference-text: #212529;
+  --conference-muted: #495057;
+  --conference-border: #d7e7df;
+}
 
 .page-header {
   background:
     linear-gradient(rgba(15, 23, 42, 0.55), rgba(15, 23, 42, 0.55)),
     url('https://www.notion.so/images/page-cover/nasa_carina_nebula.jpg') center/cover no-repeat;
+}
+
+body {
+  color: var(--conference-text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .main-content h1,
@@ -17,24 +28,20 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: var(--pandora-heading);
-}
-
-body {
-  color: var(--pandora-slate);
+  color: var(--conference-primary);
 }
 
 a {
-  color: var(--pandora-body-link);
+  color: var(--conference-primary);
 }
 
 a:hover,
 a:focus {
-  color: var(--pandora-hover);
+  color: var(--conference-primary-dark);
 }
 
 .committee-member__name {
-  color: var(--pandora-indigo);
+  color: var(--conference-primary);
 }
 
 .committee-member__name a {
@@ -43,37 +50,37 @@ a:focus {
 
 .committee-member__name a:hover,
 .committee-member__name a:focus {
-  color: var(--pandora-hover);
+  color: var(--conference-primary-dark);
 }
 
 .committee-member {
-  border-color: #d7def7;
-  box-shadow: 0 12px 28px -18px rgba(16, 22, 42, 0.45);
+  border-color: var(--conference-border);
+  box-shadow: 0 8px 20px -16px rgba(33, 37, 41, 0.28);
 }
 
 .committee-member__avatar img {
-  border-color: #e6ebff;
+  border-color: #edf5f1;
 }
 
 .main-content blockquote {
-  border-left-color: #c8d2ff;
+  border-left-color: #9fd0b8;
 }
 
 .site-footer {
-  border-top-color: #d7def7;
+  border-top-color: var(--conference-border);
 }
 
 .page-header .btn {
-  color: rgba(235, 241, 255, 0.96);
-  border-color: rgba(183, 183, 255, 0.5);
-  background-color: rgba(52, 59, 102, 0.34);
+  color: rgba(255, 255, 255, 0.92);
+  border-color: rgba(255, 255, 255, 0.45);
+  background-color: rgba(0, 119, 68, 0.28);
 }
 
 .page-header .btn:hover,
 .page-header .btn:focus {
   color: #ffffff;
-  border-color: rgba(215, 198, 255, 0.72);
-  background-color: rgba(106, 92, 189, 0.46);
+  border-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(0, 119, 68, 0.44);
 }
 
 .project-name,
