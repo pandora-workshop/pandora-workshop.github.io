@@ -2,3 +2,15 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.page-header {
+  background:
+    linear-gradient(rgba(15, 23, 42, 0.55), rgba(15, 23, 42, 0.55)),
+    url('https://www.notion.so/images/page-cover/nasa_carina_nebula.jpg') center/cover no-repeat;
+}
+
+.project-name,
+.project-tagline,
+.page-header .btn {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+}
