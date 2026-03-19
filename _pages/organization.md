@@ -12,7 +12,7 @@ order : 1
 <div class="committee-grid">
 {% include committee-member.html
   name="Shanshan Xu"
-  picture="/images/people/Shanshan_Xu.gif"
+  picture="/images/people/sxu.jpg"
   site="https://sxu.notion.site/"
   institution="University of Copenhagen, Denmark" %}
 {% include committee-member.html
@@ -32,12 +32,12 @@ order : 1
   institution="LMU Munich, Germany" %}
 {% include committee-member.html
   name="Sarenne Wallbridge"
-  picture="/images/people/Sarenne_Wallbridge.png"
+  picture="/images/people/sw.png"
   site="https://sarenne.github.io/"
   institution="AI Security Institute, UK" %}
 {% include committee-member.html
   name="Fajri Koto"
-  picture="/images/people/Fajri_Koto.png"
+  picture="/images/people/fk.png"
   site="https://www.fajrikoto.com/"
   institution="MBZUAI, UAE" %}
 {% include committee-member.html
