@@ -1,17 +1,29 @@
 ---
 layout: default
-title: "PANDORA: Pluralistic AI & NLP"
+title: "Workshop Pandora: Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
 permalink: /
 order: 1
 ---
 
-# PANDORA: Pluralistic AI & NLP
+# About the Workshop
 
-PANDORA is a proposed workshop on **Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment**. The workshop responds to a core challenge in modern NLP and AI alignment: many real-world tasks are subjective, context-dependent, and shaped by meaningful differences across annotators, communities, and cultures.
+The 1st PANDORA Workshop  will  take place at [EMNLP 2026](https://2026.emnlp.org/) conference Budapest!
 
-Instead of treating disagreement as noise, PANDORA centers pluralism as a signal. The workshop scope spans the full pipeline from data collection to model training, evaluation, and sociotechnical governance. It is designed as a venue for work on how to build systems that can represent, learn from, and operate responsibly across diverse and sometimes conflicting human perspectives.
+Traditional NLP pipelines have historically optimized for a single "gold" target, treating any disagreement in annotation/Human Label Variation as mere noise to be disgarded. However, many deployed NLP tasks, such as toxicity detection, politeness, stance evaluation, and summarization quality, are inherently subjective and context-dependent. This variation is frequently meaningful, reflecting vital differences in social position, culture, and lived experience.
 
-## Why This Workshop
+
+Ignoring pluralism in AI is not only a technical limitation but a sociotechnical failure. PANDORA extends the agenda of pluralism-aware dataset practices end-to-end, spanning:
+
+- **Data:** Eliciting and representing pluralistic judgments, and separating error from meaningful variation.
+- **Modeling & Alignment:** Learning from diverse and conflicting feedback without collapsing to one single "best" view.
+- **Evaluation:** Context-aware assessment beyond single-ground-truth metrics.
+- **Normative & Sociotechnical Questions:** Determining when pluralism is beneficial, when consensus is required, and understanding the resulting trade-offs.
+
+**Our Community Goal:** The workshop aims to produce a community deliverable: a Pluralism-aware Reporting Checklist and reusable template cards for datasets, preference/RLHF data, and evaluations to complement standard dataset/model cards.
+
+Contact us via email at [pandora.workshop.1@gmail.com](mailto:pandora.workshop.1@gmail.com). for any questions.
+
+<!-- ## Why This Workshop
 
 Traditional NLP pipelines often optimize for a single "gold" label. That assumption breaks down for tasks such as toxicity detection, politeness, stance, safety judgments, and even summarization quality, where disagreement may reflect social position, culture, or lived experience rather than annotation error.
 
@@ -29,14 +41,13 @@ PANDORA is planned as a **1-day workshop** that combines technical results, cros
 - 2-3 invited talks spanning NLP, AI safety, and sociotechnical perspectives
 - Oral highlights and a poster session with dedicated discussion time
 - A panel on **Pluralism vs. Consensus**
-- A community deliverable: a **Pluralism-aware Reporting Checklist** and reusable template cards for datasets, preference data, and evaluation setups
+- A community deliverable: a **Pluralism-aware Reporting Checklist** and reusable template cards for datasets, preference data, and evaluation setups -->
 
 ## Contributions We Invite
 
 The workshop proposal welcomes archival and non-archival submissions on pluralism-aware NLP and responsible alignment, including:
 
 - human label variation and perspectivist NLP
-- disagreement-aware aggregation and representation
 - pluralistic AI alignment
 - probabilistic and multi-perspective modeling
 - pluralism-aware evaluation and metrics
@@ -46,10 +57,10 @@ The workshop proposal welcomes archival and non-archival submissions on pluralis
 
 We also explicitly encourage interdisciplinary work, language- and community-specific work, conceptual contributions, and a **Reflections & Provocations** track for short viewpoint pieces.
 
-## Current Status
+<!-- ## Current Status
 
 This website has been adapted from the workshop proposal and now reflects the proposed PANDORA scope. Final venue confirmation, dates, and submission deadlines are still to be announced.
 
-For questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk).
+For questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk). -->
 
 
