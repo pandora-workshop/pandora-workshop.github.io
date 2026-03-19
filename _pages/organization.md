@@ -69,27 +69,26 @@ order : 1
 - Danae Sanchez, University of Copenhagen, Denmark
 - Leon Staufer, University of Cambridge, UK
 - Ruchira Dhar, University of Copenhagen, Denmark
-<!-- - Stephanie Brandl, University of Copenhagen, Denmark
-- Bolei Ma, LMU Munich, Germany
-- Beiduo Chen, LMU Munich, Germany
-- Yinuo Xu, University of Michigan, USA
-- Matthias Orlikowski, Bielefeld University, Germany
-- Ruyuan Wan, Pennsylvania State University, USA
-- Moksh Jain, Mila and Universite de Montreal, Canada
-- Elisa Bassignana, Bocconi University, Italy
-- Silvia Casola, LMU Munich, Germany
-- Xinpeng Wang, LMU Munich, Germany
-- Joris Baan, LMU Munich, Germany
-- Ding Wang, Google Research
-- Aida Davani, Google Research
-- Mark Diaz, Google Research
-- Dennis Ulmer, University of Amsterdam, Netherlands
-- Mario Giulianelli, UCL, UK
-- Danish Pruthi, IISc, India
-- Monojit Choudhury, MBZUAI, UAE
-- Soujanya Poria, Singapore University of Technology and Design, Singapore 
-- Animesh Mukherjee, IIT Kharagpur, India -->
-
+<!-- -  Stephanie Brandl, University of Copenhagen, Denmark -->
+<!-- - Bolei Ma, LMU Munich, Germany -->
+<!-- - Beiduo Chen, LMU Munich, Germany -->
+<!-- - Yinuo Xu, University of Michigan, USA -->
+<!-- - Matthias Orlikowski, Bielefeld University, Germany -->
+<!-- - Ruyuan Wan, Pennsylvania State University, USA -->
+<!-- - Moksh Jain, Mila and Universite de Montreal, Canada -->
+<!-- - Elisa Bassignana, Bocconi University, Italy -->
+<!-- - Silvia Casola, LMU Munich, Germany -->
+<!-- - Xinpeng Wang, LMU Munich, Germany -->
+<!-- - Joris Baan, LMU Munich, Germany -->
+<!-- - Ding Wang, Google Research -->
+<!-- - Aida Davani, Google Research -->
+<!-- - Mark Diaz, Google Research -->
+<!-- - Dennis Ulmer, University of Amsterdam, Netherlands -->
+<!-- - Mario Giulianelli, UCL, UK -->
+<!-- - Danish Pruthi, IISc, India -->
+<!-- - Monojit Choudhury, MBZUAI, UAE -->
+<!-- - Soujanya Poria, Singapore University of Technology and Design, Singapore  -->
+<!-- - Animesh Mukherjee, IIT Kharagpur, India  -->
 ## Contact
 
 For workshop questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk).

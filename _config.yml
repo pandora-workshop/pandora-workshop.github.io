@@ -24,7 +24,7 @@ collections:
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "PANDORA Workshop"
+title                    : "1st PANDORA Workshop"
 tagline                  : "Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment<br>2026@EMNLP 2026, Budapest, Hungary"
 title_separator          : "-"
 name                     : "PANDORA"
@@ -69,5 +69,5 @@ footer-links:
   email: shanshan.xu@di.ku.dk
   github:
   twitter:
-  bluesky:
+  bluesky: pandora-workshop.bsky.social
   
