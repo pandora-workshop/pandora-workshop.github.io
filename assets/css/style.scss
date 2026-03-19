@@ -3,6 +3,15 @@
 
 @import 'jekyll-theme-cayman';
 
+:root {
+  --pandora-indigo: #6d5efc;
+  --pandora-violet: #8b5cf6;
+  --pandora-ink: #dbe7ff;
+  --pandora-body-link: #5b64f6;
+  --pandora-heading: #4e54e8;
+  --pandora-hover: #8a4dff;
+}
+
 .page-header {
   background:
     linear-gradient(rgba(15, 23, 42, 0.55), rgba(15, 23, 42, 0.55)),
@@ -15,25 +24,42 @@
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  color: #134475;
+  color: var(--pandora-heading);
 }
 
 a {
-  color: #0c4985;
+  color: var(--pandora-body-link);
 }
 
 a:hover,
 a:focus {
-  color: #0a4a89;
+  color: var(--pandora-hover);
+}
+
+.committee-member__name {
+  color: var(--pandora-indigo);
 }
 
 .committee-member__name a {
-  color: #0a4a89;
+  color: inherit;
 }
 
 .committee-member__name a:hover,
 .committee-member__name a:focus {
-  color: #034d97;
+  color: var(--pandora-hover);
+}
+
+.page-header .btn {
+  color: rgba(240, 244, 255, 0.92);
+  border-color: rgba(173, 191, 255, 0.45);
+  background-color: rgba(63, 59, 126, 0.26);
+}
+
+.page-header .btn:hover,
+.page-header .btn:focus {
+  color: #ffffff;
+  border-color: rgba(196, 170, 255, 0.62);
+  background-color: rgba(104, 74, 182, 0.38);
 }
 
 .project-name,
