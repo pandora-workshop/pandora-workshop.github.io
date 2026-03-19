@@ -25,7 +25,7 @@ collections:
 locale                   : "en"
 baseurl                  : ""
 title                    : "PANDORA Workshop"
-tagline                  : "Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
+tagline                  : "Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment<br>2026@EMNLP 2026, Budapest, Hungary"
 title_separator          : "-"
 name                     : "PANDORA"
 description              : "Pluralism-aware NLP and responsible alignment workshop proposal"
