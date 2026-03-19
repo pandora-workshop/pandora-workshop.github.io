@@ -9,6 +9,33 @@
     url('https://www.notion.so/images/page-cover/nasa_carina_nebula.jpg') center/cover no-repeat;
 }
 
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #5b6cff;
+}
+
+a {
+  color: #6a5cff;
+}
+
+a:hover,
+a:focus {
+  color: #8b5cf6;
+}
+
+.committee-member__name a {
+  color: #4f46e5;
+}
+
+.committee-member__name a:hover,
+.committee-member__name a:focus {
+  color: #7c3aed;
+}
+
 .project-name,
 .project-tagline,
 .page-header .btn {
