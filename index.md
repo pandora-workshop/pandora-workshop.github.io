@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop Pandora: Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
+title: "1st Pandora Workshop: Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment"
 permalink: /
 order: 1
 ---
