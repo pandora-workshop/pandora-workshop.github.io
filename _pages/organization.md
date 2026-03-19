@@ -12,7 +12,7 @@ order : 1
 <div class="committee-grid">
 {% include committee-member.html
   name="Shanshan Xu"
-  picture="https://www2.adm.ku.dk/selv/pls/prt_www40.hentindhold_cms?p_personid=917726"
+  picture="/images/people/Shanshan_Xu.gif"
   site="https://sxu.notion.site/"
   institution="University of Copenhagen, Denmark" %}
 {% include committee-member.html
@@ -22,32 +22,32 @@ order : 1
   institution="Amazon, USA" %}
 {% include committee-member.html
   name="Kemal Kurniawan"
-  picture="https://kkurniawan.com/images/author.jpg"
+  picture="/images/people/Kemal_Kurniawan.jpg"
   site="https://kkurniawan.com/"
   institution="University of Melbourne, Australia" %}
 {% include committee-member.html
   name="Siyao (Logan) Peng"
-  picture="https://logan-siyao-peng.github.io/img/portrait_logan_1.jpeg"
+  picture="/images/people/Siyao_Peng.jpeg"
   site="https://logan-siyao-peng.github.io/"
   institution="LMU Munich, Germany" %}
 {% include committee-member.html
   name="Sarenne Wallbridge"
-  picture="https://sarenne.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"
+  picture="/images/people/Sarenne_Wallbridge.png"
   site="https://sarenne.github.io/"
   institution="AI Security Institute, UK" %}
 {% include committee-member.html
   name="Fajri Koto"
-  picture="https://lh3.googleusercontent.com/sitesv/APaQ0SS7Rx2I6ODMjr2q2-pBJc57mBEy0VnWycE_3SId8dFl8GIBTf6bwgLDOWrV9rd6H32N7IzeBiKZiXngcwwT6zMeQTQqeab3Tes83-6HkKSjsA6vxQjIirTpmPLvlNR_VpezW86PV29J_H8neOtpFEMu964hBDVHmx1aVoB0y6zAoSVmkR5VJG2aNqc=w1280"
+  picture="/images/people/Fajri_Koto.png"
   site="https://www.fajrikoto.com/"
   institution="MBZUAI, UAE" %}
 {% include committee-member.html
   name="Nouha Dziri"
-  picture="https://nouhadziri.github.io/assets/img/prof_pic.jpg"
+  picture="/images/people/Nouha_Dziri.jpg"
   site="https://nouhadziri.github.io/"
   institution="Allen Institute for AI (AI2), USA" %}
 {% include committee-member.html
   name="Barbara Plank"
-  picture="https://bplank.github.io/assets/img/avatar.jpg"
+  picture="/images/people/Barbara_Plank.jpg"
   site="https://bplank.github.io/"
   institution="LMU Munich, Germany" %}
 </div>
