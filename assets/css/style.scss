@@ -4,12 +4,15 @@
 @import 'jekyll-theme-cayman';
 
 :root {
-  --pandora-indigo: #6d5efc;
-  --pandora-violet: #8b5cf6;
-  --pandora-ink: #dbe7ff;
-  --pandora-body-link: #5b64f6;
-  --pandora-heading: #4e54e8;
-  --pandora-hover: #8a4dff;
+  --pandora-night: #10162a;
+  --pandora-slate: #2d3558;
+  --pandora-indigo: #5c63c7;
+  --pandora-violet: #7e6fe8;
+  --pandora-lavender: #b7b7ff;
+  --pandora-ice: #dbe6ff;
+  --pandora-body-link: #5d66d6;
+  --pandora-heading: #4650b8;
+  --pandora-hover: #8374ee;
 }
 
 .page-header {
@@ -25,6 +28,10 @@
 .main-content h5,
 .main-content h6 {
   color: var(--pandora-heading);
+}
+
+body {
+  color: var(--pandora-slate);
 }
 
 a {
@@ -49,17 +56,34 @@ a:focus {
   color: var(--pandora-hover);
 }
 
+.committee-member {
+  border-color: #d7def7;
+  box-shadow: 0 12px 28px -18px rgba(16, 22, 42, 0.45);
+}
+
+.committee-member__avatar img {
+  border-color: #e6ebff;
+}
+
+.main-content blockquote {
+  border-left-color: #c8d2ff;
+}
+
+.site-footer {
+  border-top-color: #d7def7;
+}
+
 .page-header .btn {
-  color: rgba(240, 244, 255, 0.92);
-  border-color: rgba(173, 191, 255, 0.45);
-  background-color: rgba(63, 59, 126, 0.26);
+  color: rgba(235, 241, 255, 0.96);
+  border-color: rgba(183, 183, 255, 0.5);
+  background-color: rgba(52, 59, 102, 0.34);
 }
 
 .page-header .btn:hover,
 .page-header .btn:focus {
   color: #ffffff;
-  border-color: rgba(196, 170, 255, 0.62);
-  background-color: rgba(104, 74, 182, 0.38);
+  border-color: rgba(215, 198, 255, 0.72);
+  background-color: rgba(106, 92, 189, 0.46);
 }
 
 .project-name,
