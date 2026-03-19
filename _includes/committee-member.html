@@ -1,0 +1,20 @@
+<div class="committee-member" itemscope itemtype="https://schema.org/Person">
+  <div class="committee-member__avatar">
+    <img src="{{ include.picture }}" alt="{{ include.name }}" itemprop="image" loading="lazy">
+  </div>
+  <div class="committee-member__body">
+    <p class="committee-member__name" itemprop="name">
+      {% if include.email and include.email != "" %}
+        <a href="mailto:{{ include.email }}">{{ include.name }}</a>
+      {% elsif include.site and include.site != "" %}
+        <a href="{{ include.site }}" target="_blank" rel="noopener">{{ include.name }}</a>
+      {% else %}
+        {{ include.name }}
+      {% endif %}
+      {% if include.extrainfo %}
+        <span class="committee-member__extra">{{ include.extrainfo }}</span>
+      {% endif %}
+    </p>
+    <p class="committee-member__affiliation" itemprop="affiliation">{{ include.institution }}</p>
+  </div>
+</div>

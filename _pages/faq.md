@@ -1,0 +1,48 @@
+---
+layout: page
+title: "Frequently Asked Questions"
+permalink: /faq
+order : 1
+---
+
+#### Q: Can I submit my non-archival accepted paper in other venues?
+__A:__ Yes, as long as the other venues follow a similar double-submission policy. We refer authors to the detailed requirements outlined in our [Author Guidelines]((https://acl2025-srw.github.io/author)).
+
+#### Q: Double submission: where should it be mentioned that the paper will be submitted to other conference for reviewing?
+__A:__ For papers submitted to the ACL main conference, please note that according to the ACL policy, authors are not permitted to submit the same work to another archival venue (such as SRW) while the paper is under review, committed, or awaiting a decision. See more [here](https://aclrollingreview.org/organizers).
+
+#### Q: If accepted, can a paper be published in the proceedings, even if it the student cannot take part at the workshop?
+__A:__ The ACL organizing team will attempt to provide travel grants to authors of all accepted papers. However, if things still don't work out, we can discuss remote presentation options should your paper be accepted.
+
+#### Q: If a paper submitted to the conference is rejected, can it still submit to the SRW?
+__A:__ Yes, if the paper is submitted before the deadline of SRW.
+
+#### Q: Do all the authors have to be students?
+__A:__ Only the first author is required to be a student; other authors may or may not be students.
+ 
+#### Q: What is the format for a thesis proposal?
+__A:__ Thesis proposals are to be submitted in the same ACL Overleaf Long Paper template. The maximum page limit for the proposal should be 8 pages (plus unlimited pages for references and appendices). We include Thesis Proposals as a separate track in the submission website since these might involve works overlapping many different areas of NLP. Please refer to the following examples from past years - [1](https://aclanthology.org/2024.eacl-srw.27.pdf) and [2](https://aclanthology.org/2024.naacl-srw.27.pdf).
+
+#### Q: How do I submit to the presubmission mentorship?
+__A:__ Head over to the submission link on OpenReview (now available [here](https://openreview.net/group?id=aclweb.org/ACL/2026/SRW_Pre-submission_Mentorship)).
+
+#### Q: How do I submit to the workshop?
+Submission link for the workshop is now available [here](https://openreview.net/group?id=aclweb.org/ACL/2026/SRW_Direct_Submission). 
+ 
+#### Q: If I submit to the mentorship program, do I also have to submit to the workshop separately?
+Yes! Please make sure you submit your work again to the workshop in order to have it reviewed. 
+
+#### Q: Can a systematic literature survey conducted by a master's student be submitted to the ACL Student Research Workshop (SRW)?
+Yes, a systematic literature survey is suitable for submission to the ACL SRW, provided the master's student is listed as the first author.
+
+#### Q: If a paper has been reviewed by ARR in May or July, can it be committed to ACL 2026?
+A. Yes. The paper can be committed to ACL SRW 2026.
+
+#### Q: If I have a paper that has been reviewed by different rounds of ARR, do I have to use the latest ARR review for commitment to ACL SRW 2026, or can I choose to commit the reviews from a previous round?
+__A:__ Authors are free to choose which round ARR submission they wish to commit
+
+#### Q: In case the student author is unable to attend due to university examinations, is it possible for the equally contributing other author to apply for the travel grant?
+__A:__ Yes.
+
+Please contact us at [acl2026srwchairs@gmail.com](mailto:acl2026srwchairs@gmail.com) if you have any other questions.
+
