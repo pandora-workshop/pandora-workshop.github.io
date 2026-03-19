@@ -19,8 +19,10 @@ Ignoring pluralism in AI is not only a technical limitation but a sociotechnical
 - **Evaluation:** Context-aware assessment beyond single-ground-truth metrics.
 - **Normative & Sociotechnical Questions:** Determining when pluralism is beneficial, when consensus is required, and understanding the resulting trade-offs.
 
-**Our Community Goal:** The workshop aims to produce a community deliverable: a Pluralism-aware Reporting Checklist and reusable template cards for datasets, preference/RLHF data, and evaluations to complement standard dataset/model cards.
+<!-- **Our Community Goal:** The workshop aims to produce a community deliverable: a Pluralism-aware Reporting Checklist and reusable template cards for datasets, preference/RLHF data, and evaluations to complement standard dataset/model cards. -->
 
+**Stay tuned for Call for paper!**
+You can follow us on BlueSky [@pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social).
 Contact us via email at [pandora.workshop.1@gmail.com](mailto:pandora.workshop.1@gmail.com) for any questions.
 
 <!-- ## Why This Workshop
@@ -43,9 +45,9 @@ PANDORA is planned as a **1-day workshop** that combines technical results, cros
 - A panel on **Pluralism vs. Consensus**
 - A community deliverable: a **Pluralism-aware Reporting Checklist** and reusable template cards for datasets, preference data, and evaluation setups -->
 
- Stay tuned for Call for paper!
+ 
 
- You can follow us on BlueSky [@pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social).
+
 
 <!-- ## Contributions We Invite
 
