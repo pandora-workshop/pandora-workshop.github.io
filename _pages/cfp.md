@@ -8,7 +8,10 @@ order : 1
 
 # Call for Papers
 
-PANDORA invites archival and non-archival submissions on **pluralism-aware NLP and responsible alignment**. The workshop centers research on how NLP and AI systems can represent, learn from, and be evaluated under meaningful human disagreement rather than collapsing toward a single "best" answer.
+### Coming Soon!
+
+
+<!-- PANDORA invites archival and non-archival submissions on **pluralism-aware NLP and responsible alignment**. The workshop centers research on how NLP and AI systems can represent, learn from, and be evaluated under meaningful human disagreement rather than collapsing toward a single "best" answer.
 
 ## Scope
 
@@ -78,4 +81,4 @@ The organizing vision emphasizes diversity across people, contexts, institutions
 
 ## Dates
 
-Final submission deadlines, camera-ready dates, and venue confirmation have not yet been announced on this website. They will be added once the workshop schedule is finalized.
+Final submission deadlines, camera-ready dates, and venue confirmation have not yet been announced on this website. They will be added once the workshop schedule is finalized. -->
