@@ -32,7 +32,7 @@ order : 1
   institution="LMU Munich, Germany" %}
 {% include committee-member.html
   name="Sarenne Wallbridge"
-  picture="/images/people/sw.png"
+  picture="/images/people/sw.jpg"
   site="https://sarenne.github.io/"
   institution="AI Security Institute, UK" %}
 {% include committee-member.html
