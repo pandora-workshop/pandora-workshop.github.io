@@ -57,11 +57,14 @@ order : 1
 - **Vered Shwartz** (confirmed)  
   University of British Columbia; CIFAR AI Chair
 
-- **Laura Weidinger** (invited)  
+- **TBD**  
+
+
+<!-- - **Laura Weidinger** (invited)  
   DeepMind
 
 - **Seth Lazar** (invited)  
-  Australian National University
+  Australian National University -->
 
 ## Program Committee
 

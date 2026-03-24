@@ -7,7 +7,7 @@ order: 1
 
 # About the Workshop
 
-The 1st PANDORA Workshop  will  take place at [EMNLP 2026](https://2026.emnlp.org/) conference Budapest!
+The 1st PANDORA Workshop  will  take place at [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary!
 
 Modern NLP systems are built on a simplifying assumption: that there exists a single correct answer. Yet in many domains, what is harmful, fair, polite, or persuasive—there is no single truth. Human disagreement is not noise to be removed, but a reflection of pluralism: diverse perspectives shaped by culture, context, and lived experience.
 
