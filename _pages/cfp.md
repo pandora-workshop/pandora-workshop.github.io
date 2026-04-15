@@ -6,79 +6,112 @@ order : 1
 
 ---
 
-# Call for Papers
+# **Call for Papers: PANDORA Workshop @ EMNLP 2026**
 
-### Coming Soon!
+**Workshop Title: PANDORA: Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Responsible Alignment**
 
+**Workshop Date:** TBD (with EMNLP 2026, October 24–29, Budapest, Hungary)  
+**Format:** Hybrid (Online \+ In-Person)
 
-<!-- PANDORA invites archival and non-archival submissions on **pluralism-aware NLP and responsible alignment**. The workshop centers research on how NLP and AI systems can represent, learn from, and be evaluated under meaningful human disagreement rather than collapsing toward a single "best" answer.
+## **Workshop Description**
 
-## Scope
+The **PANDORA** workshop focuses on pluralism in AI and NLP: how to design, train, evaluate, and govern language technologies in ways that account for diverse human judgments, values, and social contexts. As AI systems are increasingly trained and evaluated using human feedback, it has become clear that disagreement among people is often not just annotation noise, but a meaningful signal reflecting differences in social position, culture, language background, and lived experience. 
 
-The workshop proposal spans four connected areas:
+Traditional NLP pipelines often optimize for a single “gold” target, collapsing disagreement into consensus. But in many deployed tasks—such as toxicity detection, politeness, stance, and summarization quality—variation in judgments is systematic and legitimate. Ignoring such pluralism is not only a technical limitation, but also a sociotechnical failure: it obscures whose values are represented in models and evaluation protocols, especially in alignment pipelines based on aggregated human feedback. 
 
-- **Data:** eliciting and representing pluralistic judgments, and distinguishing annotator error from meaningful variation
-- **Modeling and alignment:** learning from diverse and conflicting feedback, including preference and RLHF-style signals
-- **Evaluation:** moving beyond single-ground-truth metrics toward context-aware, uncertainty-aware, and pluralism-aware evaluation
-- **Normative and sociotechnical questions:** clarifying when pluralism is desirable, when consensus is necessary, and what trade-offs arise
+PANDORA aims to advance this discussion end-to-end, spanning:
 
-## Topics
+* **Data**: eliciting and representing pluralistic judgments, and distinguishing error from meaningful variation  
+* **Modeling & Alignment**: learning from diverse and conflicting feedback without collapsing to a single “best” view  
+* **Sociotechnical Evaluation**: assessing systems in pluralism- and context-aware ways beyond single-ground-truth metrics  
+* **Normative Questions**: understanding when pluralism is desirable, when consensus is required, and what trade-offs arise in practice 
 
-Topics of interest include, but are not limited to:
+The workshop also aims to support the development of **community standards, shared practices, and actionable guidelines** for pluralism-aware NLP and AI, including a potential **Pluralism-aware Reporting Checklist** for datasets, preference data, and evaluations. 
 
-- human label variation and perspectivist NLP
-- non-aggregated data collection and multi-annotator distributions
-- annotator- and group-aware modeling
-- disagreement-aware representations and uncertainty-aware training
-- pluralistic AI alignment and multi-objective alignment
-- preference conditioning and human-AI co-adaptation
-- probabilistic and multi-perspective learning approaches
-- pluralism-aware evaluation frameworks, calibration, and audits
-- decision policies under pluralism, including abstention, deferral, personalization, and multiple-output strategies
-- participatory design, interface design, feedback design, and reporting standards
-- governance, policy, and normative analysis for pluralistic AI
-- real-world applications in moderation, education, health, multilingual systems, and multimodal systems
+The workshop is intended as a venue for researchers and practitioners working across NLP, machine learning, AI alignment, HCI, computational social science, philosophy, and policy.
 
-## Submission Types
+## **Submission Guidelines**
 
-The proposal includes the following contribution formats:
+We invite submissions in the following categories:
 
-- **Full papers:** up to 8 pages
-- **Short papers:** up to 4 pages
-- **Extended abstracts:** up to 2 pages for non-archival contributions, including previously published work, work in progress, or emerging ideas
-- **Reflections & Provocations:** short, well-argued viewpoint pieces offering a personal perspective, critique, or provocation about pluralism in NLP
+* **Long Papers:** Up to 8 pages of content, plus unlimited references and appendices  
+* **Short Papers:** Up to 4 pages of content, plus unlimited references and appendices  
+* **Extended Abstracts:** Up to 2 pages of content, plus unlimited references and appendices
 
-The workshop plans to accept both **archival** and **non-archival** submissions.
+Authors may choose whether their submission is **archival** or **non-archival**.Non-archival submissions may include previously published work, work in progress, or emerging ideas. We also welcome interdisciplinary, conceptual, and community-grounded work, including submissions that focus on a single language, dialect, or social setting. In addition to standard paper categories, PANDORA welcomes **Reflections & Provocations**: short, well-argued pieces offering a critique, viewpoint, or provocative perspective on pluralism in NLP and AI. 
 
-## Review Process
+## **Submission Requirements**
 
-Submissions are planned to be handled through **OpenReview** with:
+Submissions must adhere to the official **ACL style templates**. Papers must be in **two-column ACL format** and submitted as **PDF files**.Submissions should be **anonymized** for review. Submissions will be handled via **OpenReview**. Please note that submissions must be fully self-contained. Supplementary material may be included only in the appendix, and reviewers are not required to review it. 
 
-- double-blind peer review
-- at least three reviews per paper
-- a meta-review for each submission
-- support for **ARR commitments** to avoid redundant reviewing
+**Topics**
 
-## Workshop Format
+Submissions may address a broad range of topics related to pluralism-aware NLP and responsible alignment, including but not limited to:
 
-PANDORA is proposed as a **1-day workshop** featuring:
+* Human label variation and perspectivist NLP  
+* Non-aggregated annotation and disagreement-aware data collection  
+* Aggregation and representation of annotator disagreement  
+* Annotator-aware, group-aware, and uncertainty-aware models  
+* Pluralistic AI alignment and diverse human values  
+* Multi-objective and preference-conditioned alignment  
+* Disagreement-aware post-training and learning objectives  
+* Pluralism-aware evaluation frameworks and metrics  
+* Calibration, uncertainty, fairness, and inclusivity in evaluation  
+* Decision policies under pluralism: abstention, deferral, personalization, and multiple outputs  
+* Participatory design and human-centered approaches to pluralistic AI  
+* Governance, policy, and normative analysis of alignment under disagreement  
+* Applications and case studies in moderation, education, health, multilingual, cross-cultural, and multimodal systems 
 
-- 2-3 invited talks spanning NLP, AI safety, and sociotechnical perspectives
-- oral highlights and a poster session
-- a panel discussion on **Pluralism vs. Consensus**
-- a community-facing deliverable: a **Pluralism-aware Reporting Checklist**
+## **Multiple Submission Policy**
 
-## Diversity and Inclusion
+For **archival direct submissions**, papers must not be under review at another journal, conference, or workshop during the workshop review period, and must not overlap substantially with work that is already published or under review elsewhere.
 
-The workshop explicitly welcomes:
+For **non-archival submissions**, authors may submit work that is previously published, under review elsewhere, or intended for future submission to another venue, provided that the submission is clearly marked as non-archival.
 
-- interdisciplinary work
-- non-English and community-grounded contributions
-- language-specific contributions that do not rely on large-scale benchmarks
-- conceptual and normative work alongside empirical papers
+**ARR Commitment**
 
-The organizing vision emphasizes diversity across people, contexts, institutions, and methods, and the proposal includes outreach plans to affinity groups and regional NLP communities.
+In addition to direct submissions, PANDORA expects to welcome **ACL Rolling Review (ARR) commitments**, subject to the workshop and host conference timeline. Papers that have already received ARR reviews and a meta-review may be considered based on those existing reviews together with fit to the workshop scope. 
 
-## Dates
+## **Submission Links**
 
-Final submission deadlines, camera-ready dates, and venue confirmation have not yet been announced on this website. They will be added once the workshop schedule is finalized. -->
+* **Direct Submission:** TBD  
+* **ARR Commitment:** TBD
+
+## **Important Dates**
+
+All deadlines are **11:59 PM UTC-12:00 (“Anywhere on Earth”)**
+
+* **Direct Submission Deadline:** July 31, 2026  
+* **ARR Commitment Deadline:** August 28, 2026  
+* **Acceptance Notifications:** September 11, 2026  
+* **Camera-ready Deadline:** September 25, 2026  
+* **Workshop Date:** During EMNLP 2026, October 24–29, 2026
+
+## **Contact Information**
+
+* **Workshop Website:** [http://pandora-workshop.github.io](http://pandora-workshop.github.io)  
+* **X: [https://x.com/Pandora\_EMNLP26](https://x.com/Pandora_EMNLP26)**  
+* **Bsky: [https://bsky.app/profile/pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social)**  
+* **Email:** [pandora.workshop.1@gmail.com](mailto:pandora.workshop.1@gmail.com)
+
+—----------------—----------------—----------------—----------------—----------------—----------------—----------
+
+# Key Dates from EMNLP 2026
+
+ARR submission \- May 25  
+Commitment \- Aug 2  
+Decision \- Aug 20  
+Camera ready \- Sep  20  
+Conference \- Oct 24 \- 29
+
+# PANDORA Dates
+
+Direct Submission \- July 31
+
+- Reviewer allocation \- August 3  
+- Deadline \- Aug 24  
+- Reviewer chasing \- Sep 2
+
+ARR  Commitment  \- Aug 28  
+Acceptance Notifications \- September 11  
+Camera Ready Deadline: September 25
