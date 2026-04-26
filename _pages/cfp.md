@@ -93,25 +93,3 @@ All deadlines are **11:59 PM UTC-12:00 (“Anywhere on Earth”)**
 * **X: [https://x.com/Pandora\_EMNLP26](https://x.com/Pandora_EMNLP26)**  
 * **Bsky: [https://bsky.app/profile/pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social)**  
 * **Email:** [pandora.workshop.1@gmail.com](mailto:pandora.workshop.1@gmail.com)
-
-—----------------—----------------—----------------—----------------—----------------—----------------—----------
-
-# Key Dates from EMNLP 2026
-
-ARR submission \- May 25  
-Commitment \- Aug 2  
-Decision \- Aug 20  
-Camera ready \- Sep  20  
-Conference \- Oct 24 \- 29
-
-# PANDORA Dates
-
-Direct Submission \- July 31
-
-- Reviewer allocation \- August 3  
-- Deadline \- Aug 24  
-- Reviewer chasing \- Sep 2
-
-ARR  Commitment  \- Aug 28  
-Acceptance Notifications \- September 11  
-Camera Ready Deadline: September 25
