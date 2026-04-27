@@ -74,8 +74,8 @@ In addition to direct submissions, PANDORA expects to welcome **ACL Rolling Revi
 
 ## **Submission Links**
 
-* **Direct Submission:** [https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_Direct_Submission&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)](https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_Direct_Submission&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)  
-* **ARR Commitment:** [https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_ARR_Commitment&referrer=%5BHomepage%5D(%2F)#tab-your-consoles](https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_ARR_Commitment&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+* **Direct Submission:** [https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_Direct_Submission)](https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_Direct_Submission)  
+* **ARR Commitment:** [https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_ARR_Commitment](https://openreview.net/group?id=EMNLP/2026/Workshop/PANDORA_ARR_Commitment)
 
 ## **Important Dates**
 
