@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nodates
 title: "Accepted Papers (Archival)"
 permalink: /accepted
 nav_hidden: true

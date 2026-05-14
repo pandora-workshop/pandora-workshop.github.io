@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_nodates
 title: "Call for Papers"
 permalink: /cfp
 order : 1
