@@ -52,12 +52,6 @@ order : 1
   institution="LMU Munich, Germany" %}
 </div>
 
-## Invited Speakers and Panel
-
-- **Vered Shwartz** (confirmed)  
-  University of British Columbia; CIFAR AI Chair
-
-- **TBD**  
 
 
 <!-- - **Laura Weidinger** (invited)  

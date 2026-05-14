@@ -24,6 +24,8 @@ The workshop PANDORA (Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Res
 
 **Stay tuned for Call for paper!**
 
+See our [invited speakers]({{ site.baseurl }}/speakers) page for confirmed speaker updates.
+
 You can follow us on BlueSky [@pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social), and on Twitter/X [@Pandora_EMNLP26](https://x.com/Pandora_EMNLP26 )
 
 Contact us via email at [pandora.workshop.1@gmail.com](mailto:pandora.workshop.1@gmail.com) for any questions.
