@@ -83,8 +83,8 @@ All deadlines are **11:59 PM UTC-12:00 (“Anywhere on Earth”)**
 
 * **Direct Submission Deadline:** July 31, 2026  
 * **ARR Commitment Deadline:** August 28, 2026  
-* **Acceptance Notifications:** September 11, 2026  
-* **Camera-ready Deadline:** September 25, 2026  
+* **Acceptance Notifications:** September 10, 2026  
+* **Camera-ready Deadline:** September 20, 2026  
 * **Workshop Date:** During EMNLP 2026, October 24–29, 2026
 
 ## **Contact Information**
