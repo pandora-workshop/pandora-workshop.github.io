@@ -81,7 +81,7 @@ In addition to direct submissions, PANDORA expects to welcome **ACL Rolling Revi
 
 All deadlines are **11:59 PM UTC-12:00 (“Anywhere on Earth”)**
 
-* **Direct Submission Deadline:** July 31, 2026  
+* **Direct Submission Deadline:** ~~July 31~~  August 7, 2026 
 * **ARR Commitment Deadline:** August 28, 2026  
 * **Acceptance Notifications:** September 10, 2026  
 * **Camera-ready Deadline:** September 20, 2026  
