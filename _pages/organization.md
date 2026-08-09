@@ -24,7 +24,7 @@ order : 1
   name="Kemal Kurniawan"
   picture="/images/people/Kemal_Kurniawan.jpg"
   site="https://kkurniawan.com/"
-  institution="University of Melbourne, Australia" %}
+  institution="University of New South Wales, Australia" %}
 {% include committee-member.html
   name="Siyao (Logan) Peng"
   picture="/images/people/Siyao_Peng.jpeg"
