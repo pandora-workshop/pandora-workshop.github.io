@@ -11,7 +11,7 @@ order: 1
   <img src="{{ site.baseurl }}/images/logo_circular.jpg" alt="PANDORA workshop logo" width="420">
 </p>
 
-**[Call for paper](https://pandora-workshop.github.io/cfp) is out!**
+## [Call for paper](https://pandora-workshop.github.io/cfp) is out! 
 
 The 1st PANDORA Workshop  will  take place at [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary!
 
