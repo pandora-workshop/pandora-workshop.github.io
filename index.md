@@ -11,6 +11,8 @@ order: 1
   <img src="{{ site.baseurl }}/images/logo_circular.jpg" alt="PANDORA workshop logo" width="420">
 </p>
 
+**[Call for paper](https://pandora-workshop.github.io/cfp) is out!**
+
 The 1st PANDORA Workshop  will  take place at [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary!
 
 Modern NLP systems are built on a simplifying assumption: that there exists a single correct answer. Yet in many domains, what is harmful, fair, polite, or persuasive—there is no single truth. Human disagreement is not noise to be removed, but a reflection of pluralism: diverse perspectives shaped by culture, context, and lived experience.
@@ -25,8 +27,6 @@ The workshop PANDORA (Pluralistic AI & NLP: Diversity-aware, Sociotechnical, Res
 
 <!-- **Our Community Goal:** The workshop aims to produce a community deliverable: a Pluralism-aware Reporting Checklist and reusable template cards for datasets, preference/RLHF data, and evaluations to complement standard dataset/model cards. -->
 
-
-**Stay tuned for Call for paper!**
 
 
 You can follow us on BlueSky [@pandora-workshop.bsky.social](https://bsky.app/profile/pandora-workshop.bsky.social), and on Twitter/X [@Pandora_EMNLP26](https://x.com/Pandora_EMNLP26 )
