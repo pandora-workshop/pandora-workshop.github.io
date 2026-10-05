@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id" xml:lang="en">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="pub-id">urn:uuid:8924896c-65aa-4247-b67d-51c925e08ad9</dc:identifier>
+    <dc:title>How Should AI Safety Benchmarks Benchmark Safety?</dc:title>
+    <dc:creator>Cheng Yu</dc:creator>
+    <dc:creator>Severin Engelmann</dc:creator>
+    <dc:creator>Ruoxuan Cao</dc:creator>
+    <dc:creator>Dalia Ali</dc:creator>
+    <dc:creator>Orestis Papakyriakopoulos</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:source>2601.23112v2.pdf</dc:source>
+    <meta property="dcterms:modified">2026-07-09T12:50:27Z</meta>
+  </metadata>
+  <manifest>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="css" href="styles/style.css" media-type="text/css"/>
+    <item id="titlepage" href="text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1" href="text/page-001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page2" href="text/page-002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page3" href="text/page-003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page4" href="text/page-004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page5" href="text/page-005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page6" href="text/page-006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page7" href="text/page-007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page8" href="text/page-008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page9" href="text/page-009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page10" href="text/page-010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page11" href="text/page-011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page12" href="text/page-012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page13" href="text/page-013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page14" href="text/page-014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page15" href="text/page-015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page16" href="text/page-016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page17" href="text/page-017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page18" href="text/page-018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page19" href="text/page-019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page20" href="text/page-020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page21" href="text/page-021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page22" href="text/page-022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page23" href="text/page-023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page24" href="text/page-024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page25" href="text/page-025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page26" href="text/page-026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page27" href="text/page-027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page28" href="text/page-028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page29" href="text/page-029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page30" href="text/page-030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page31" href="text/page-031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page32" href="text/page-032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page33" href="text/page-033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page34" href="text/page-034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page35" href="text/page-035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page36" href="text/page-036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page37" href="text/page-037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page38" href="text/page-038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page39" href="text/page-039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page40" href="text/page-040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page41" href="text/page-041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page42" href="text/page-042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="page1"/>
+    <itemref idref="page2"/>
+    <itemref idref="page3"/>
+    <itemref idref="page4"/>
+    <itemref idref="page5"/>
+    <itemref idref="page6"/>
+    <itemref idref="page7"/>
+    <itemref idref="page8"/>
+    <itemref idref="page9"/>
+    <itemref idref="page10"/>
+    <itemref idref="page11"/>
+    <itemref idref="page12"/>
+    <itemref idref="page13"/>
+    <itemref idref="page14"/>
+    <itemref idref="page15"/>
+    <itemref idref="page16"/>
+    <itemref idref="page17"/>
+    <itemref idref="page18"/>
+    <itemref idref="page19"/>
+    <itemref idref="page20"/>
+    <itemref idref="page21"/>
+    <itemref idref="page22"/>
+    <itemref idref="page23"/>
+    <itemref idref="page24"/>
+    <itemref idref="page25"/>
+    <itemref idref="page26"/>
+    <itemref idref="page27"/>
+    <itemref idref="page28"/>
+    <itemref idref="page29"/>
+    <itemref idref="page30"/>
+    <itemref idref="page31"/>
+    <itemref idref="page32"/>
+    <itemref idref="page33"/>
+    <itemref idref="page34"/>
+    <itemref idref="page35"/>
+    <itemref idref="page36"/>
+    <itemref idref="page37"/>
+    <itemref idref="page38"/>
+    <itemref idref="page39"/>
+    <itemref idref="page40"/>
+    <itemref idref="page41"/>
+    <itemref idref="page42"/>
+  </spine>
+</package>

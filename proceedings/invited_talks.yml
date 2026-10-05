@@ -1,0 +1,23 @@
+- title: TBD
+  abstract_file: invited_talks/vinodkumar_prabhakaran.tex
+  speaker_name: Vinodkumar Prabhakaran
+  institution: TBD
+  bio_file: invited_talks/vinodkumar_prabhakaran_bio.tex
+  date: 2026-10-29
+  location: G13-14
+
+- title: A Psychological Perspective on Pluralistic AI Alignment
+  abstract_file: invited_talks/bai_xuechunzi.tex
+  speaker_name: Bai Xuechunzi
+  institution: University of Chicago
+  bio_file: invited_talks/bai_xuechunzi_bio.tex
+  date: "2026-10-29, 14:45–15:30"
+  location: G13-14 / Online
+
+- title: To Personalize or not to Personalize? That is the Question
+  abstract_file: invited_talks/vered_shwartz.tex
+  speaker_name: Vered Shwartz
+  institution: University of British Columbia; Vector Institute
+  bio_file: invited_talks/vered_shwartz_bio.tex
+  date: "2026-10-29, 16:00–16:45"
+  location: G13-14 / Online

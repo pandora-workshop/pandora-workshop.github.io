@@ -3,93 +3,24 @@ layout: page_nodates
 title: "Program Schedule"
 permalink: /schedule
 nav_hidden: true
-published: false
+published: true
 ---
 
 # Workshop Program
 
-Coming soon!
+The PANDORA workshop will take place on **Thursday, October 29, 2026**, in Budapest, Hungary.
 
-
-<!--
-
-The workshop will take place on **Monday, July 28** and **Tuesday, July 29** at the [Austria Center Vienna](https://www.acv.at/en/). The program consists of three sessions, featuring oral and poster presentations.
-
----
-## Session 3 - Oral Session
-
-**Date & Time:** Monday, July 28 | 14:00–15:30  
-**Location:** Hall N.2 & Zoom
-
-### 14:00–14:10  
-
-**WELCOME**
-
----
-
-### 14:10–15:20 | Presentations  
-
-**14:10–14:20**  
-**Paper ID:** 96-SRW  
-**Title:** *Towards Multi-Perspective NLP Systems: A Thesis Proposal*  
-**Presenter:** Benedetta Muscato  
-
-**14:20–14:30**  
-**Paper ID:** 156-SRW  
-**Title:** *Fact from Fiction: Finding Serialized Novels in Newspapers*  
-**Presenter:** Pascale Feldkamp  
-
-**14:30–14:40**  
-**Paper ID:** 187-SRW  
-**Title:** *Semantic Alignment in Hyperbolic Space for Fine-Grained Emotion Classification*  
-**Presenter:** Ashish Kumar  
-
-**14:40–14:50**  
-**Paper ID:** 195-SRW  
-**Title:** *SimBench: Benchmarking the Ability of Large Language Models to Simulate Human Behaviors*  
-**Presenter:** Tiancheng Hu  
-
-**14:50–15:00**  
-**Paper ID:** 198-SRW  
-**Title:** *Adversarial Tokenization*  
-**Presenter:** Renato Lui Geh  
-
-**15:00–15:10**  
-**Paper ID:** 276-SRW  
-**Title:** *Tree-of-Report: Table-to-Text Generation for Sports Game Reports with Tree-Structured Prompting*  
-**Presenter:** Shang-Hsuan Chiang  
-
-**15:10–15:20**  
-**Paper ID:** 63-SRW  
-**Title:** *Reasoning for Translation: Comparative Analysis of Chain-of-Thought and Tree-of-Thought Prompting for LLM Translation*  
-**Presenter:** Lam Nguyen  
-
----
-
-### 15:20–15:30  
-**BEST PAPERS & CLOSING**
-
----
-
-## Session 7 – Poster Session (Hybrid)  
-**Date & Time:** Tuesday, July 29 | 10:30–12:00  
-**Location:** Hall 4/5 & Zoom
-
-This hybrid session will include both **in-person** and **virtual poster presentations**.
-
-[UPDATE:] During the virtual sessions, you will be required to present your paper using a poster or a set of slides in a 4-minute talk, followed by a 2-minute Q&A session. You can check your presentation order in the underline.
-
----
-
-## Session 10 – Poster Session (Hybrid)  
-**Date & Time:** Tuesday, July 29 | 16:00–17:30  
-**Location:** Hall 4/5 & Zoom
-
-This is the final session of the workshop, also featuring **in-person** and **virtual poster presentations**.
-
-[UPDATE:] During the virtual sessions, you will be required to present your paper using a poster or a set of slides in a 4-minute talk, followed by a 2-minute Q&A session. You can check your presentation order in the underline.
-
----
-
-**Note:** To ensure a smooth presentation experience, all presenters are encouraged to review the [Presenter’s Guide](https://docs.google.com/presentation/d/1PJOyaKKAezi_YFpaTS-nHv4xacgcVswnukFgc6ZY_QM/edit?usp=sharing).
->
+| Time | Program |
+|:---|:---|
+| 09:00–09:10 | Opening |
+| 09:10–09:50 | Keynote Talk: **Vinodkumar Prabhakaran** |
+| 09:50–10:30 | Oral Session 1 |
+| 10:30–11:00 | Coffee Break |
+| 11:10–12:00 | Oral Session 2 |
+| 12:00–12:30 | Poster Lightning Talk |
+| 12:30–13:30 | Lunch |
+| 13:30–14:45 | Poster Session |
+| 14:45–15:30 | Invited Talk: **Bai Xuechunzi** |
+| 15:30–16:00 | Coffee Break |
+| 16:00–16:45 | Invited Talk: **Vered Shwartz** |
+| 16:45–17:00 | Best Paper and Closing |
