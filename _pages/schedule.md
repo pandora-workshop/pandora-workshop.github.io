@@ -9,6 +9,7 @@ published: true
 # Workshop Program
 
 The PANDORA workshop will take place on **Thursday, October 29, 2026**, in Budapest, Hungary.
+Location: G13-14
 
 | Time | Program |
 |:---|:---|
