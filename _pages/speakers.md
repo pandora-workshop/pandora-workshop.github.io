@@ -9,6 +9,8 @@ order : 1
 
 ## Vinodkumar Prabhakaran
 
+<img src="/images/people/Vinodkumar_Prabhakaran.png" alt="Vinodkumar Prabhakaran" width="240" loading="lazy">
+
 **Google Research**
 
 **Date:** October 29, 2026
@@ -19,15 +21,17 @@ order : 1
 
 ### Abstract
 
-As generative AI is increasingly deployed globally, it encounters a "world of many" --- many users, many languages, many cultural contexts, and many value systems. However, these technologies are often developed within relatively monocultural contexts, leading to significant "cultural incongruencies" when deployed at scale. In this talk, I will discuss our recent research demonstrating that crucial concepts in AI --- including core safety notions like offensiveness and harm, and even preferences for human-likeness in LLMs --- are not universal truths but are deeply socially situated. I will discuss our recent work that propsoes a systematic approach to conceptualizing, operationalizing, and benchmarking cultural intelligence in AI systems, and discuss how we can integrate intentionally diversified socio-cultural data, devise pluralistic evaluations, and develop geo-culturally grounded interventions to build AI systems that are transparent, controllable, and responsive to the complexities of a global audience.
+To be announced.
 
 ### Bio
 
-Dr. Vinodkumar Prabhakaran is a Sr. Staff Research Scientist at Google Research, where he co-leads the interdisciplinary Technology, AI, Society and Culture (TASC) team. His research deals with questions at the intersection of AI and society, with a focus on global and cross-cultural considerations. Before Google, he was a postdoc at Stanford University, and obtained his PhD from Columbia University. His prior research focused on building scalable ways using language technologies to identify and address large-scale societal issues such as racial disparities in policing, workplace incivility, and online abuse. He has published over 50 articles in top-tier venues such as the PNAS, ACL, TACL, NAACL, EMNLP, NeurIPS, and FAccT.
+Vinodkumar Prabhakaran is a Research Scientist at Google working at the intersection of natural language processing, machine learning, and social science. His research focuses on responsible AI, fairness, and cultural considerations in AI development and evaluation. He earned his PhD in Computer Science from Columbia University in 2015 and previously held a postdoctoral position at Stanford University.
 
 ---
 
 ## Xuechunzi Bai
+
+<img src="/images/people/Xuechunzi_Bai.jpg" alt="Xuechunzi Bai" width="240" loading="lazy">
 
 **University of Chicago**
 
@@ -48,6 +52,8 @@ Xuechunzi Bai is the Neubauer Family Assistant Professor of Psychology at the Un
 ---
 
 ## Vered Shwartz
+
+<img src="/images/people/Vered_Shwartz.jpg" alt="Vered Shwartz" width="240" loading="lazy">
 
 **University of British Columbia; Vector Institute**
 
