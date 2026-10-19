@@ -17,7 +17,7 @@ order : 1
 
 **Location:** G13-14
 
-### Talk: TBD
+### Talk: AI for the World of Many
 
 ### Abstract
 
