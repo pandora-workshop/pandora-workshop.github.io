@@ -21,7 +21,7 @@ Location: G13-14
 | 12:00–12:30 | Poster Lightning Talk |
 | 12:30–13:30 | Lunch |
 | 13:30–14:45 | Poster Session |
-| 14:45–15:30 | Invited Talk: **Bai Xuechunzi**<br><a href="/speakers#xuechunzi-bai"><u>A Psychological Perspective on Pluralistic AI Alignment</u></a> |
+| 14:45–15:30 | Invited Talk: **Bai Xuechunzi** (online)<br><a href="/speakers#xuechunzi-bai"><u>A Psychological Perspective on Pluralistic AI Alignment</u></a> |
 | 15:30–16:00 | Coffee Break |
-| 16:00–16:45 | Invited Talk: **Vered Shwartz**<br><a href="/speakers#vered-shwartz"><u>To Personalize or not to Personalize? That is the Question</u></a> |
+| 16:00–16:45 | Invited Talk: **Vered Shwartz** (online)<br><a href="/speakers#vered-shwartz"><u>To Personalize or not to Personalize? That is the Question</u></a> |
 | 16:45–17:00 | Best Paper and Closing |
