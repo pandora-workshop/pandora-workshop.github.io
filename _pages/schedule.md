@@ -24,4 +24,4 @@ Location: G13-14
 | 14:45–15:30 | Invited Talk: **Bai Xuechunzi** (online)<br><a href="/speakers#xuechunzi-bai"><u>A Psychological Perspective on Pluralistic AI Alignment</u></a> |
 | 15:30–16:00 | Coffee Break |
 | 16:00–16:45 | Invited Talk: **Vered Shwartz** (online)<br><a href="/speakers#vered-shwartz"><u>To Personalize or not to Personalize? That is the Question</u></a> |
-| 16:45–17:00 | Best Paper and Closing |
+| 16:45–17:00 |  Closing |
