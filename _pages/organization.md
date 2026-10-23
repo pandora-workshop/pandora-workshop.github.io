@@ -62,32 +62,55 @@ order : 1
 
 ## Program Committee
 
-- Taylor Sorensen, University of Washington, USA
-- Danae Sanchez, University of Copenhagen, Denmark
-- Leon Staufer, University of Cambridge, UK
-- Ruchira Dhar, University of Copenhagen, Denmark
-<!-- -  Stephanie Brandl, University of Copenhagen, Denmark -->
-<!-- - Bolei Ma, LMU Munich, Germany -->
-<!-- - Beiduo Chen, LMU Munich, Germany -->
-<!-- - Yinuo Xu, University of Michigan, USA -->
-<!-- - Matthias Orlikowski, Bielefeld University, Germany -->
-<!-- - Ruyuan Wan, Pennsylvania State University, USA -->
-<!-- - Moksh Jain, Mila and Universite de Montreal, Canada -->
-<!-- - Elisa Bassignana, Bocconi University, Italy -->
-<!-- - Silvia Casola, LMU Munich, Germany -->
-<!-- - Xinpeng Wang, LMU Munich, Germany -->
-<!-- - Joris Baan, LMU Munich, Germany -->
-<!-- - Ding Wang, Google Research -->
-<!-- - Aida Davani, Google Research -->
-<!-- - Mark Diaz, Google Research -->
-<!-- - Dennis Ulmer, University of Amsterdam, Netherlands -->
-<!-- - Mario Giulianelli, UCL, UK -->
-<!-- - Danish Pruthi, IISc, India -->
-<!-- - Monojit Choudhury, MBZUAI, UAE -->
-<!-- - Soujanya Poria, Singapore University of Technology and Design, Singapore  -->
-<!-- - Animesh Mukherjee, IIT Kharagpur, India  -->
+- Zeeshan Ahmed, Meta Inc.
+- JinYeong Bak, SungKyunKwan University
+- Bal Krishna Bal, Kathmandu University
+- Valerio Basile, University of Turin
+- Nadjet Bouayad-Agha, Biorce
+- Andrew Caines, University of Cambridge
+- Ilias Chalkidis, Copenhagen University
+- Beiduo Chen, Ludwig-Maximilians-Universität München
+- Ming-Bin Chen, University of Melbourne
+- Juhwan Choi, AITRICS
+- Ruchira Dhar, University of Copenhagen
+- Yi Ding, University of Tennessee, Knoxville
+- Neele Falk, University of Stuttgart
+- Diego Frassinelli, Ludwig-Maximilians-Universität München
+- Yang Gao, South China University of Technology
+- Sanjana Gautam, Microsoft
+- Md. Mahadi Hassan, University of Central Florida
+- Yu Hou, University of Maryland, College Park
+- Tianyi Hu, Aarhus University
+- Zhengyu Hu, University of Washington
+- Shan Jiang, eBay Inc.
+- Simeon Junker, Universität Bielefeld
+- Gyuwan Kim, University of California, Santa Barbara
+- Varun Kotte, Adobe Systems
+- Eric Le Ferrand, State University of New York at Buffalo
+- Tak Yeon Lee, Korea Advanced Institute of Science & Technology
+- Anqi Li, Westlake University
+- Alicia Liu, University of Pennsylvania
+- Maximilian Maurer, GESIS Leibniz Institute for the Social Sciences and Heinrich-Heine Universität Düsseldorf
+- Selina Meyer, University of Technology Nuremberg
+- Kushan Mitra, Megagon Labs
+- Benedetta Muscato, Scuola Normale Superiore
+- Ninell Oldenburg, University of Copenhagen
+- Jiaming Qu, Amazon
+- Maria Ryskina, Vector Institute
+- Danae Sanchez Villegas, University of Copenhagen
+- Rita Sevastjanova, ETH Zurich
+- Sherrie Shen, University of Southern California
+- Xiaoying Song, University of North Texas
+- Leon Staufer, University of Cambridge
+- Kristina Striegnitz, Union College
+- Xiangguo Sun, Southeast University
+- Lei Wang, Renmin University of China
+- Yinggui Wang, Alibaba Group
+- Juan Wen, China Agricultural University
+- Kaige Xie, Georgia Institute of Technology
+- JungMin Yun, Chung-Ang University
+- You Zhang, Yunnan University
+- Zhang Zhang, Institute of Automation, Chinese Academy of Sciences
 
 
-## Contact
 
-For workshop questions, please contact [Shanshan Xu](mailto:shanshan.xu@di.ku.dk).
